@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+Hello, I'am Marek 👋
+</h1>
 
-<!--
-**mareksykorka/mareksykorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Software Developer and Student of Robotics and Cybernetics
+</h2>
 
-Here are some ideas to get you started:
+#### >> 🕒 I use regularly
+- C, C++, C#, "C family 🙃"
+- WPF, Avalonia
+- Matlab & Simulink
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### >> 📅 I did some projects in
+- ROS 1 & 2
+- PLC LD
+- Java
