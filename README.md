@@ -5,9 +5,7 @@
 <!-- ================== ENG Description ================== -->
 <details open>
   <summary>
-    <h2>
-      <img src="https://discord.com/assets/09598dcec149fda6bebb.svg" height="20"> About me
-    </h2>
+    <img src="https://discord.com/assets/09598dcec149fda6bebb.svg" height="20"> About me,
   </summary>
   
 I'm **Marek Sýkorka** a "Junior" Associate Software Developer at [VONSCH s.r.o.](https://www.vonsch.sk/?lang=en), a company that specializes in the field of   industrial and power electronics. I've lately graduated 🎓 from [Slovak University of Technology, Faculty of Electrical Engineering and Information Technology](https://www.fei.stuba.sk/english.html?page_id=793) in the field of [Robotics and Cybernetics](https://urk.fei.stuba.sk/) with a Bachelors degree. I'm continuing to study for an engineering degree and possibly further 🙃.
@@ -17,9 +15,7 @@ That's probably the reason why most of my repositories are school project relate
 <!-- ================== SVK Description ================== -->
 <details>
   <summary>
-    <h2>
-      <img src="https://discord.com/assets/fdf312bf864f0964cb8a.svg" height="20"> O mne
-    </h2>
+      <img src="https://discord.com/assets/fdf312bf864f0964cb8a.svg" height="20"> O mne,
   </summary>
 
 Volám sa **Marek Sýkorka** a som "brigádnik" na pozícii Softvérového vývojára v spoločnosti [VONSCH s.r.o.](https://www.vonsch.sk/), ktorá sa zaoberá oblasťou priemyselnej a výkonovej elektroniky. Nedávno som úspešne ukončil Bakalársky stupeň vysokoškolského štúdia 🎓 na [Slovenskej Technickej Univerzite, Fakulte Elektrotechniky a Informačných Technológií](https://www.fei.stuba.sk/) v odbore [Robotika a Kybernetika](https://urk.fei.stuba.sk/). V štúdiu pokračujem Inžinierskym stupňom štúdia a možno aj ďalej 🙃.
