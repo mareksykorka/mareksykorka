@@ -1,6 +1,8 @@
 <!-- ================== Greeting ================== -->
+<!-- Profile Views are from: https://github.com/antonkomarev/github-profile-views-counter -->
 # Zdravíčko! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-This README is also available in my native language. This link will take you there 🛫 [Very not obvious link](README.sk.md) 🐦
+![Profile Views](https://komarev.com/ghpvc/?username=mareksykorka&color=cc9b1b&style=flat) This README is also available in my native language. This link will take you there 🛫 [Very not obvious link](README.sk.md) 🐦 
+
 
 <!-- ================== Description ================== -->
 ## <img src="svg/UserInfo.svg" width="30px" align="bottom"> About me
@@ -9,6 +11,8 @@ I'm **Marek Sýkorka** a "Junior" Associate Software Developer at [VONSCH s.r.o.
 That's probably the reason why most of my repositories are school project related. I want to use GitHub for my personal projects and experimentation; however, I haven't had much time recently. Until then, have a blast with some of my overengineered school projects. 😉 Oh and if it wasn't clear I'm from Slovakia.
 
 <!-- ================== Tech Stack ================== -->
+<!-- Icons are from: https://simpleicons.org/ -->
+<!-- Shield Badges: https://shields.io/ -->
 ## <img src="svg/TechStack.svg" width="30px" align="bottom"> Languages & Tools
 
 <!-- ================== Code editors ================== -->
@@ -120,9 +124,13 @@ That's probably the reason why most of my repositories are school project relate
 ![Siemens PLCs](https://img.shields.io/badge/Technology-PLC%20LD-Informational?style=flat&logo=siemens&logoColor=white&color=009999)
 </details>
 
+
 <!-- ================== Git Stats ================== -->
+<!-- Top Langs is from: https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub stats is from: https://github.com/anuraghazra/github-readme-stats -->
 
 ## 📈 Git Stats
-![](https://komarev.com/ghpvc/?username=mareksykorka&color=cc9b1b&style=for-the-badge)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareksykorka&locale=en&layout=compact&theme=slateorange)](https://github.com/mareksykorka/github-readme-stats)
-[![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareksykorka&locale=en&layout=compact&theme=slateorange&show_icons=true)](https://github.com/mareksykorka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareksykorka&locale=en&layout=compact&langs_count=8&title_color=ffb900&text_color=e6edf3&icon_color=ffb900&border_color=ffb900&bg_color=60,0d1117,312506)](https://github.com/mareksykorka/github-readme-stats)
+[![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareksykorka&locale=en&layout=compact&show_icons=true&number_format=short&title_color=ffb900&text_color=e6edf3&icon_color=ffb900&border_color=ffb900&bg_color=60,0d1117,312506)](https://github.com/mareksykorka/github-readme-stats)
+
+## 📈 Socials
