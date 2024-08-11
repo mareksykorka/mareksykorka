@@ -128,9 +128,12 @@ That's probably the reason why most of my repositories are school project relate
 <!-- ================== Git Stats ================== -->
 <!-- Top Langs is from: https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub stats is from: https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub Streak is from: https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## 📈 Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareksykorka&locale=en&layout=compact&langs_count=8&title_color=ffb900&text_color=e6edf3&icon_color=ffb900&border_color=ffb900&bg_color=60,0d1117,312506)](https://github.com/mareksykorka/github-readme-stats)
 [![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareksykorka&locale=en&layout=compact&show_icons=true&number_format=short&title_color=ffb900&text_color=e6edf3&icon_color=ffb900&border_color=ffb900&bg_color=60,0d1117,312506)](https://github.com/mareksykorka/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareksykorka&date_format=j%20M%5B%20Y%5D&border=FFB900&stroke=FFB900&ring=FFB900&fire=FFFFFF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=B5BBC0&background=60%2C0D1117%2C312506)](https://git.io/streak-stats)
 
 ## 📈 Socials
