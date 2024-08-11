@@ -9,7 +9,7 @@ I'm **Marek Sýkorka** a "Junior" Associate Software Developer at [VONSCH s.r.o.
 That's probably the reason why most of my repositories are school project related. I want to use GitHub for my personal projects and experimentation; however, I haven't had much time recently. Until then, have a blast with some of my overengineered school projects. 😉 Oh and if it wasn't clear I'm from Slovakia.
 
 <!-- ================== Tech Stack ================== -->
-## <img src="svg/TechStack" width="30px" align="bottom"> Languages & Tools
+## <img src="svg/TechStack.svg" width="30px" align="bottom"> Languages & Tools
 
 <!-- ================== Code editors ================== -->
 <details>
